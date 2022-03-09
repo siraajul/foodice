@@ -51,6 +51,6 @@ flutter:
       fonts:
         - asset: fonts/Pacifico-Regular.ttf
 
-    - family: Asap
+    - family: Caprum
       fonts:
-        -asset: fonts/Asap-VariableFont_wght.ttf
+        - asset: fonts/Cuprum-VariableFont_wght.ttf

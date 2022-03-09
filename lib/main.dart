@@ -43,7 +43,7 @@ class _FooDiceState extends State<FooDice> {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text("Still Confused?",style: TextStyle(fontFamily: 'Pacifico',fontSize: 30.0,color: Colors.white),),
-        Text("Click On Image",style: TextStyle(fontFamily: 'Pacifico',fontSize: 30.0,color: Colors.white),),
+        Text("    ",style: TextStyle(fontSize: 30.0,color: Colors.white),),
 
         Container(
           child: Row(
