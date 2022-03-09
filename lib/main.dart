@@ -49,7 +49,8 @@ class _FooDiceState extends State<FooDice> {
         SizedBox(
           height: 20.0,
         ),
-        Text("Tap Here",style: GoogleFonts.yellowtail(textStyle: TextStyle(fontSize: 40.0,letterSpacing: 1,color: Colors.white))),
+        Text("What to Eat",style: GoogleFonts.yellowtail(textStyle: TextStyle(fontSize: 40.0,letterSpacing: 1,color: Colors.white))),
+        Text("Tap Here",style: GoogleFonts.saira(textStyle: TextStyle(fontSize: 40.0,letterSpacing: 1,color: Colors.white))),
         SizedBox(
           height: 20.0,
         ),
